@@ -1,0 +1,4 @@
+from langchain.memory.prompt import ENTITY_MEMORY_CONVERSATION_TEMPLATE
+
+
+print(ENTITY_MEMORY_CONVERSATION_TEMPLATE)

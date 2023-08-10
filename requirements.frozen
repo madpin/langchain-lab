@@ -1,0 +1,7 @@
+nltk
+openai
+python-dotenv
+tiktoken
+PyYAML
+pandas
+langchain[all]
